@@ -5,19 +5,19 @@ admins = {}
 load_dotenv()
 
 # client vars
-API_ID = int(getenv("API_ID", "7452578"))
-API_HASH = getenv("API_HASH", "6246896261:AAEoeINps2oQZ0hxFOwxndIuqYIxZW1CYBY")
-BOT_TOKEN = getenv("BOT_TOKEN", "5385370603:AAHjSbZFL1OLl_uOm3v8lS0iKSYhRJS_bKs")
-SESSION_NAME = getenv("SESSION_NAME", "BAA6lh4JtsRc4fptq8_Lk7GB8GLicJtRxxpgwguP62JOCOsVRhdzkB5eM67nY2x8DLSLg7yvdFFQOy3OiPKLXjJiIwr9UA0N2CvgEDiY_7zDZMEzjVdgzx__R-iV4jdrSaR895-0UhRZEOlFQFt06JBgp0i9bN80uezk5EQm6cj6F3NTNmLs2GiOvsPyNYtFSH04jxc_fryDfxlPzv6MEc0R3LRhmftmXsoseBR3MS7IV4yG5mzSoKcm-RixAlwEnX8_JWy6WVeCy5WpyJ97-CMkE17f9-W6LphiAdXGPR9m7Yl7q-CvR30b1pLsF9q-fR1Sv6Nc5QAVI2ZniTLu-dukAAAAAU94hDUA")
+API_ID = int(getenv("API_ID", "20279969"))
+API_HASH = getenv("API_HASH", "cceaafe470deee009bbe859fd59482fb")
+BOT_TOKEN = getenv("BOT_TOKEN", "6271497235:AAFiHWF-9gMcz0B7oWE_OIMrSqfD_ZRPnPU")
+SESSION_NAME = getenv("SESSION_NAME", "BABDUMFqcpvNk17ZxGOV45vWMgvnxkUc6XH2rSjrrwGyqeqWsnW0j4IeDC9iwfct_P0VSjf0lS4JiCyV6gsGG4YMUuG8R-LYxHkg5BjVT3e_PgnGdvrFLemEG6nrZYRz-UZPoaRV5pN9aol6oibUSYxEwWKOPD8jdGmQjikg9yBNMHf7BB2HYoD79kOH-CBw9FE5qTnj_6cp3ERJyFgzYvqT7Um7Y-3FvZItLUAkhAnbzKBS1KocNjCT250cLZ2HP2EOxb3JYP91vSpH3ocmoOkhIlyrQL-KfItoV6Ik3XX_fR7X8XLB53TuX9-fdvoxvaZwf1XfGQMwOMwGodznPE-EAAAAAXdbcuoA")
 
 # mandatory vars
-OWNER_USERNAME = getenv("OWNER_USERNAME", "T_K_1T")
-ALIVE_NAME = getenv("ALIVE_NAME", "اتشـٰـُ͢ـُٰـيڪڪو")
-BOT_USERNAME = getenv("BOT_USERNAME", "UUIUU7_bot")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "@C1_CU")
+ALIVE_NAME = getenv("ALIVE_NAME"#ᕼEᒪᑭEᖇ⚝|ᑎᗩITᖇO𝅘𝅥𝅯<")
+BOT_USERNAME = getenv("BOT_USERNAME", "DD_UC_bot")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/STKR2/2004")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
-GROUP_SUPPORT = getenv("GROUP_SUPPORT", "T_K_1T")
+GROUP_SUPPORT = getenv("GROUP_SUPPORT", "mezooy")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "UU_OP7")
 
 # database, decorators, handlers mandatory vars
